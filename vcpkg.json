@@ -1,0 +1,11 @@
+{
+    "name":"qt-learning",
+    "version":"0.0.1",
+    "builtin-baseline":"62159a45e18f3a9ac0548628dcaf74fcb60c6ff9",
+    "dependencies":[
+        "qtbase"
+    ],
+    "overrides": [
+        { "name": "qtbase", "version": "6.10.0" }
+    ]
+}
