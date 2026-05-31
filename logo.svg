@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="96" height="96" version="1.1" viewBox="0 0 96 96" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient4" x1="81.941" x2="14.059" y1="14.116" y2="81.998" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#1a8550" offset="0"/>
+   <stop stop-color="#2cde85" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path d="m0 12v84l85 0.1147 11-11.115v-85h-84z" fill="url(#linearGradient4)"/>
+ <text transform="translate(4.4731 -10.796)" fill="#ffffff" font-family="Marlett" font-size="50.667px" font-weight="500" style="shape-inside:url(#rect1);shape-padding:0;white-space:pre" xml:space="preserve"><tspan x="4.0136719" y="88.082067"><tspan font-family="'Titillium Web SemiBold'" font-weight="normal">QL</tspan></tspan></text>
+</svg>

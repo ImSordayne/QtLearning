@@ -1,4 +1,14 @@
-# QtLearning
+<!--
+ * @Author: Sordayne 455248805@qq.com
+ * @FilePath: \QtLearning\README.md
+-->
+# QtLearning 项目说明
+<!-- markdownlint-disable MD033 -->
+<div style="display: grid; place-items: center;">
+    <img src="logo.svg" alt="logo" style="width: 256px;height: 256px;"/>
+    <h1 style="font-size: 60px">QtLearning</h1>
+</div>
+<!-- markdownlint-enable MD033 -->
 
 ## 项目简介
 
@@ -14,7 +24,8 @@
 - 积累实际项目经验
 
 ## 项目结构
-```
+
+```text
 QtLearning/
 ├── Widgets/                  # Qt Widgets 项目
 |   ├── Base64ConverUI/       # 一个可以将文件用Base64编码转换为文本的软件
@@ -68,7 +79,7 @@ cmake --build build
 如有建议或问题，欢迎通过以下方式联系：
 
 - GitHub Issues: [提交问题](https://github.com/ImSordayne/QtLearning/issues)
-- Email: 455248805@qq.com
+- Email: <455248805@qq.com>
 - QQ: 455248805
 - 微信: haolin201204
 
@@ -78,4 +89,4 @@ cmake --build build
 
 ---
 
-⭐️ 如果这个项目对你有帮助，欢迎点个 Star！
+⭐️ 如果这个项目对你有帮助，欢迎点个 Star!
