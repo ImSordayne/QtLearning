@@ -4,9 +4,8 @@
 -->
 # QtLearning 项目说明
 <!-- markdownlint-disable MD033 -->
-<div style="display: grid; place-items: center;">
-    <img src="logo.svg" alt="logo" style="width: 256px;height: 256px;"/>
-    <h1 style="font-size: 60px">QtLearning</h1>
+<div>
+    <img src="logo.svg" alt="logo" style="margin: 0 auto;width: 256px;height: 256px;"/>
 </div>
 <!-- markdownlint-enable MD033 -->
 
